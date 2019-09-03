@@ -21,5 +21,5 @@ def print_Madlib():
     print ("They run all day with " + words["noun3"] + " ,I'll never understand. ")
     print ("But they always arrive " + words["adverb2"])
     print ("Why " + words["pronoun1"] + " does this, I might now understand.")
-    print ("All I know is this madlibs is a " + words["adjective2"] + " mess ;-")
+    print ("All I know is this madlibs is a " + words["adjective2"] + " mess. ")
 print_Madlib()
